@@ -7,27 +7,27 @@
 
 # Danh sách thành viên:
 | Họ và tên      | MSSV | Lớp     |
-| :---        |    :----:   |          ---: |
-| [Lê Đào Xuân Thành](https://github.com/anhquan075 "Quân's github")      | 21522595       | CS114.O21.KHCL  |
-| [Trần Tấn Thịnh](https://github.com/20-8-21-1-14 "Thuận's github")   | 21522639        | CS114.O21.KHCL      |
+| :----:        |    :----:   |          :----: |
+| [Lê Đào Xuân Thành](https://github.com/LeeThanh24?tab=repositories)      | 21522595       | CS114.O21.KHCL  |
+| [Trần Tấn Thịnh](https://github.com/TranThinh1109?tab=repositories)   | 21522639        | CS114.O21.KHCL      |
 
 # [Assignments](https://github.com/anhquan075/CS114.L22.KHCL/tree/main/Assignments "Assignments")
 
-- [x] [Week 1](https://github.com/anhquan075/CS114.L21-L22.KHCL/tree/main/Assignments/Week1)
-- [x] [Week 2](https://github.com/anhquan075/CS114.L21-L22.KHCL/tree/main/Assignments/Week2)
-- [x] [Week 3](https://github.com/anhquan075/CS114.L21-L22.KHCL/tree/main/Assignments/Week3)
-- [x] [Week 4](https://github.com/anhquan075/CS114.L21-L22.KHCL/tree/main/Assignments/Week4)
-- [x] [Week 5](https://github.com/anhquan075/CS114.L21-L22.KHCL/tree/main/Assignments/Week5)
-- [x] [Week 6](https://github.com/anhquan075/CS114.L21-L22.KHCL/tree/main/Assignments/Week6)
-- [x] [Week 7](https://github.com/anhquan075/CS114.L21-L22.KHCL/tree/main/Assignments/Week7)
-- [x] [Week 8](https://github.com/anhquan075/CS114.L21-L22.KHCL/tree/main/Assignments/Week8)
-- [x] [Week 9](https://github.com/anhquan075/CS114.L21-L22.KHCL/tree/main/Assignments/Week9)
+- [x] [Week 1]
+- [x] [Week 2]
+- [x] [Week 3]
+- [x] [Week 4]
+- [x] [Week 5]
+- [x] [Week 6]
+- [x] [Week 7]
+- [x] [Week 8]
+- [x] [Week 9]
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
-# [Final Project](https://github.com/anhquan075/CS114.L21-L22.KHCL/tree/main/Final_Project/ "Final Project")
-- [Demo Website](https://7c82de7c9a63.ngrok.io/aic?index=2&cls=7&imgpath=/home/mmlab/Downloads/test_set_A_lite/&labelpath=/home/mmlab/Downloads/)
-- [File report](https://github.com/anhquan075/CS114.L21-L22.KHCL/tree/main/Final_Project/Report "Report")
-- [Slide](https://github.com/anhquan075/CS114.L21-L22.KHCL/tree/main/Final_Project/Slide "Slide")
-- [Code](https://github.com/anhquan075/AI_Hackathon2020/tree/e6d25e5878525a4ec0496588cfd3e7c3bab0c7cf "Code")
+# [Final Project]
+- [Demo Website]
+- [File report]
+- [Slide]
+- [Code]
  
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
